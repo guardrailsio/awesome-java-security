@@ -75,7 +75,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Secure Coding Guidelines](https://www.oracle.com/technetwork/java/seccodeguide-139067.html) - Secure Coding Guidelines for Java SE
 - [Securing a Web Application](https://spring.io/guides/gs/securing-web/) - This guide walks you through the process of creating a simple web application with resources that are protected by Spring Security.
 - [Spring Security Guides](https://docs.spring.io/spring-security/site/docs/current/guides/html5/index.html) - Step by step guides on how to use Spring Security.
-- [Prevent cross-site scripting (XSS) attacks](https://www.ibm.com/developerworks/library/se-prevent-cross-site-scripting-attacks/index.html) - This guide explains how XSS attacks work and suggests a methodoloy to block XSS attacks.
+- [Prevent cross-site scripting (XSS) attacks](https://www.ibm.com/developerworks/library/se-prevent-cross-site-scripting-attacks/index.html) - This article explains how XSS attacks work and suggests a methodoloy to block XSS attacks.
 
 ## Specifications
 
