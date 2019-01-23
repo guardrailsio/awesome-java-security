@@ -76,7 +76,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Securing a Web Application](https://spring.io/guides/gs/securing-web/) - This guide walks you through the process of creating a simple web application with resources that are protected by Spring Security.
 - [Spring Security Guides](https://docs.spring.io/spring-security/site/docs/current/guides/html5/index.html) - Step by step guides on how to use Spring Security.
 
-# Specifications
+## Specifications
 
 - [JSR 115: Java Authorization Contract for Containers](https://jcp.org/en/jsr/detail?id=115)
 - [JSR 196: Java Authentication Service Provider Interface for Containers](https://www.jcp.org/en/jsr/detail?id=196)
