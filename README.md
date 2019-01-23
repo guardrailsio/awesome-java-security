@@ -57,6 +57,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Keyczar](https://github.com/google/keyczar) - Easy-to-use crypto toolkit by Google.
 - [Keywhiz](https://github.com/square/keywhiz) - System for distributing and managing secrets.
 - [Tink](https://github.com/google/tink) - Multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+- [ACME4J](https://github.com/shred/acme4j) - Java ACME client for issuing X.509 certificates using Let's Encrypt or another ACME based CA.
 
 # Educational
 
