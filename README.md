@@ -69,11 +69,18 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Articles, Guides & Talks
 
+- [Java Platform, Standard Edition Security Developer’s Guide](https://docs.oracle.com/javase/10/security/toc.htm)
 - [Application Security Verification Standard](https://www.owasp.org/images/3/33/OWASP_Application_Security_Verification_Standard_3.0.1.pdf) - (PDF) The standard is a list of application security requirements that can be used by developers.
 - [Spring Security CSRF](https://www.baeldung.com/spring-security-csrf) - A Guide to CSRF Protection in Spring Security.
 - [Secure Coding Guidelines](https://www.oracle.com/technetwork/java/seccodeguide-139067.html) - Secure Coding Guidelines for Java SE
 - [Securing a Web Application](https://spring.io/guides/gs/securing-web/) - This guide walks you through the process of creating a simple web application with resources that are protected by Spring Security.
 - [Spring Security Guides](https://docs.spring.io/spring-security/site/docs/current/guides/html5/index.html) - Step by step guides on how to use Spring Security.
+
+# Specifications
+
+- [JSR 115: Java Authorization Contract for Containers](https://jcp.org/en/jsr/detail?id=115)
+- [JSR 196: Java Authentication Service Provider Interface for Containers](https://www.jcp.org/en/jsr/detail?id=196)
+
 
 # Other
 
