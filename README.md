@@ -69,7 +69,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Articles, Guides & Talks
 
-- [Java Platform, Standard Edition Security Developer’s Guide](https://docs.oracle.com/javase/10/security/toc.htm)
+- [Java Platform, Standard Edition Security Developer’s Guide](https://docs.oracle.com/javase/10/security/toc.htm) - This guide covers major Java Standard Edition security components: Java Cryptography Architecture (JCA), Java Authentication and Authorization Service (JAAS) and Java Secure Socket Extensions (JSSE)
 - [Application Security Verification Standard](https://www.owasp.org/images/3/33/OWASP_Application_Security_Verification_Standard_3.0.1.pdf) - (PDF) The standard is a list of application security requirements that can be used by developers.
 - [Spring Security CSRF](https://www.baeldung.com/spring-security-csrf) - A Guide to CSRF Protection in Spring Security.
 - [Secure Coding Guidelines](https://www.oracle.com/technetwork/java/seccodeguide-139067.html) - Secure Coding Guidelines for Java SE
