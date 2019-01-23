@@ -82,7 +82,6 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [JSR 196: Java Authentication Service Provider Interface for Containers](https://www.jcp.org/en/jsr/detail?id=196)
 - [JSR 375: Java EE Security API](https://jcp.org/en/jsr/detail?id=375)
 
-
 # Other
 
 ## Reporting Bugs
