@@ -84,7 +84,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 # Contributing
 
 Found an awesome project, package, article, or another type of resources related to Java Security? Open a pull request!
-Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
+Just follow the [guidelines](/CONTRIBUTING.MD). Thank you!
 
 ---
 
