@@ -45,6 +45,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 - [Code Pulse](https://github.com/codedx/codepulse) - Code Pulse is a real-time code coverage tool for penetration testing activities.
 - [OWASP ZAP](https://github.com/zaproxy/zaproxy) -  Helps automatically find security vulnerabilities in your web applications.
+- [Contrast Community Edition](https://www.contrastsecurity.com/contrast-community-edition) - Free runtime protection and vulnerability detection tool, identifying issues in running applications.
 
 ## Vulnerabilities and Security Advisories
 
@@ -53,6 +54,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Snyk Vulnerability DB](https://snyk.io/vuln?type=maven) - Commercial but free listing of known vulnerabilities in libraries.
 - [Common Vulnerabilities and Exposures](https://www.cvedetails.com/product/19117/Oracle-JRE.html?vendor_id=93) - Vulnerabilities that were assigned a CVE. Covers the language and packages.
 - [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=java&search_type=all) - Java known vulnerabilities in the National Vulnerability Database.
+- [Contrast Community Edition](https://www.contrastsecurity.com/contrast-community-edition) - Free tool to locate CVEs and outdated dependencies in libraries.
 
 ## Cryptography
 
@@ -82,6 +84,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Securing a Web Application](https://spring.io/guides/gs/securing-web/) - This guide walks you through the process of creating a simple web application with resources that are protected by Spring Security.
 - [Spring Security Guides](https://docs.spring.io/spring-security/site/docs/current/guides/html5/index.html) - Step by step guides on how to use Spring Security.
 - [Prevent cross-site scripting (XSS) attacks](https://www.ibm.com/developerworks/library/se-prevent-cross-site-scripting-attacks/index.html) - This article explains how XSS attacks work and suggests a methodology to block XSS attacks.
+- [Java Security Resource Center](https://www.oracle.com/technetwork/java/javase/overview/security-2043272.html) - A collection of security details for different users of the Java Platform.
 
 ## Specifications
 
