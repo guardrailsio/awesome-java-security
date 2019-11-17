@@ -86,6 +86,10 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Prevent cross-site scripting (XSS) attacks](https://www.ibm.com/developerworks/library/se-prevent-cross-site-scripting-attacks/index.html) - This article explains how XSS attacks work and suggests a methodology to block XSS attacks.
 - [Java Security Resource Center](https://www.oracle.com/technetwork/java/javase/overview/security-2043272.html) - A collection of security details for different users of the Java Platform.
 
+## Practices
+
+- [Encrypting with SSL/TLS](https://github.com/Hakky54/mutual-tls-ssl) Step by step guide for encrypting client and server communication
+
 ## Specifications
 
 - [JSR 115: Java Authorization Contract for Containers](https://jcp.org/en/jsr/detail?id=115)
