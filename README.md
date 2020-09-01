@@ -40,6 +40,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 - [Gitrob](https://github.com/michenriksen/gitrob) - Gitrob is a tool to help find potentially sensitive files pushed to public repositories on Github.
 - [Sonarqube](https://github.com/SonarSource/sonarqube) - SonarQube provides the capability to show the health of an application and highlight newly introduced issues.
+- [Oversecured](https://oversecured.com/) - A static analyzer for Android apps (APK files), searches for security vulnerabilities. Contains 90+ vulnerability categories.
 
 ## Runtime Analysis
 
