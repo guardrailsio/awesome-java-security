@@ -41,6 +41,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Gitrob](https://github.com/michenriksen/gitrob) - Gitrob is a tool to help find potentially sensitive files pushed to public repositories on Github.
 - [Sonarqube](https://github.com/SonarSource/sonarqube) - SonarQube provides the capability to show the health of an application and highlight newly introduced issues.
 - [Oversecured](https://oversecured.com/) - A static analyzer for Android apps (APK files), searches for security vulnerabilities. Contains 90+ vulnerability categories.
+- [Bearer]([https://oversecured.com/](https://github.com/Bearer/bearer)) - A static code security analyzer to discover, filter and prioritize security and privacy risks.
 
 ## Runtime Analysis
 
