@@ -20,7 +20,6 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 # Tools
 
 ## Web Framework Hardening
-
 - [Apache Shiro](https://shiro.apache.org/) - A powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management.
 - [JJWT](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android.
 - [OWASP ESAPI Java](https://github.com/ESAPI/esapi-java-legacy) - Enterprise Security API is a free, open source, web application security control library that makes it easier for programmers to write lower-risk applications.
@@ -30,6 +29,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Multi tools
 
+- [Abom](https://github.com/guardrailsio/awesome-java-security) - Monitor open-source vulnerabilities in real-time using only your SBOM or manifest file e.g package-lock.json.
 - [hawkeye](https://github.com/hawkeyesec/scanner-cli) - Multi-purpose security/vulnerability/risk scanning tool supporting Ruby, Node.js, Python, PHP and Java.
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that gives you instant security feedback in your Pull Requests.
 
@@ -57,6 +57,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Common Vulnerabilities and Exposures](https://www.cvedetails.com/product/19117/Oracle-JRE.html?vendor_id=93) - Vulnerabilities that were assigned a CVE. Covers the language and packages.
 - [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=java&search_type=all) - Java known vulnerabilities in the National Vulnerability Database.
 - [Contrast Community Edition](https://www.contrastsecurity.com/contrast-community-edition) - Free tool to locate CVEs and outdated dependencies in libraries.
+- [Vulert Vulnerability Database](https://vulert.com/vuln-db) Vulert's vulnerability database lists recent security issues found in open-source packages for languages like PHP, Java, Python, Node.js, and others.
 
 ## Cryptography
 
