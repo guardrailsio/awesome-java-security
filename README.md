@@ -75,6 +75,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [BodgeIt Store](https://github.com/psiinon/bodgeit) - A vulnerable web application aimed at people who are new to pen testing.
 - [OWASP Benchmark](https://github.com/OWASP/Benchmark) - A Java test suite designed to verify the speed and accuracy of vulnerability detection tools.
 - [Security Shepherd](https://github.com/OWASP/SecurityShepherd) - Web and mobile application security training platform.
+- [TutorialSearch](https://tutorialsearch.io/browse/devops-it/java-servers) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [WebGoat](https://github.com/WebGoat/WebGoat) - A deliberately insecure Java Web Application.
 
 ## Articles, Guides & Talks
