@@ -56,6 +56,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Snyk Vulnerability DB](https://snyk.io/vuln?type=maven) - Commercial but free listing of known vulnerabilities in libraries.
 - [Common Vulnerabilities and Exposures](https://www.cvedetails.com/product/19117/Oracle-JRE.html?vendor_id=93) - Vulnerabilities that were assigned a CVE. Covers the language and packages.
 - [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=java&search_type=all) - Java known vulnerabilities in the National Vulnerability Database.
+- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier.
 - [Contrast Community Edition](https://www.contrastsecurity.com/contrast-community-edition) - Free tool to locate CVEs and outdated dependencies in libraries.
 
 ## Cryptography
