@@ -46,6 +46,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 ## Runtime Analysis
 
 - [Code Pulse](https://github.com/codedx/codepulse) - Code Pulse is a real-time code coverage tool for penetration testing activities.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform with a dedicated Spring Boot (Java) offensive sub-agent that dynamically tests running applications for injection, deserialization, access-control and misconfiguration issues, orchestrating 80+ tools over MCP with a per-finding evidence trail.
 - [OWASP ZAP](https://github.com/zaproxy/zaproxy) -  Helps automatically find security vulnerabilities in your web applications.
 - [Contrast Community Edition](https://www.contrastsecurity.com/contrast-community-edition) - Free runtime protection and vulnerability detection tool, identifying issues in running applications.
 
