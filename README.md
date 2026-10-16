@@ -27,6 +27,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [PAC4J](https://github.com/pac4j/pac4j) - Security engine for Java to authenticate users, get their profiles and manage authorizations in order to secure web applications and web services.
 - [Spring Security](https://github.com/spring-projects/spring-security) - A powerful and highly customizable authentication and access-control framework.
 - [Spring Security Oauth](https://github.com/spring-projects/spring-security-oauth) - Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications.
+- [Spring Boot Guard](https://github.com/Guard-Core/spring-boot-guard) - Spring Boot integration for IP filtering, rate limiting with automatic bans and attack pattern detection.
 
 ## Multi tools
 
